@@ -418,17 +418,6 @@ Os diferenciais competitivos nas operações logísticas são:
 
 > #Não há nenhum valor no produto ou serviço até estar nas mãos do cliente ou consumidor.
 
----
-
-class:
-
-## Atividades da semana
-
-- [**Atividades de Aprendizagem** - Nível de serviço logístico]()
-- [**Atividades de Aprendizagem** - KPI e desempenho logístico]()
-- Revisitar a apresentação de hoje
-- Ler e explorar a documentação no site referentes às **UNIDADE 1** e **UNIDADE 2**. 
-
 
 ---
 
